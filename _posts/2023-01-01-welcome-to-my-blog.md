@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to My Blog
 author: Yanxiang Wang
-date: 2023-06-05 19:23 +0200
+date: 2023-01-01 19:23 +0200
 toc:  true
 ---
 # Welcome to My Blog! 🎉
