@@ -5,7 +5,7 @@ url: https://anganiang.github.io/
 avatar: /pic.png
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /earth.png
 
 # Gems
 plugins:
