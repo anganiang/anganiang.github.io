@@ -3,7 +3,6 @@ layout: post
 title: Selected Topics in Geoinformatics Assignment
 author: Yanxiang Wang
 date: 2023-01-05 19:23 +0200
-last_modified_at: 2023-01-05 19:23 +0200
 toc:  true
 ---
 ### 1. Oct 10: Shahnawaz - [Introduction to Satellite Based Atmospheric and Climatic Observations](https://uni-salzburg.webex.com/uni-salzburg/ldr.php?RCID=61366556782722e46fbec111bf21ecea) 
