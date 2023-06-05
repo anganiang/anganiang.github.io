@@ -1,6 +1,6 @@
 # Setup
 title: Yanxiang Wang
-description: Applied Geoinformatics students at the University of Salzburg
+description: Applied Geoinformatics, University of Salzburg
 url: https://anganiang.github.io/
 avatar: /pic.png
 paginate: 5
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: Yanxiang Wang
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Yanxiang Wang
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/
+    - https://github.com/anganiang
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Yanxiang Wang
+  url: https://github.com/anganiang
+  email: yanxiang.wang@stud.sbg.ac.at
