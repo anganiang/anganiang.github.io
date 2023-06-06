@@ -6,7 +6,7 @@ date: 2023-02-06 19:23 +0200
 tags: [assignment]
 toc:  true
 ---
-### [Tutorials](https://docs.google.com/presentation/d/1BL3ZkJUhxpWl2JyAv1Q989D9nGYnINrfGg6U9d7xPls/edit#slide=id.g1fcbb006725_0_11)
+### [Tutorials](https://storymaps.arcgis.com/collections/07c7d64710d2451b918fc9822b2d12f7?item=1)
 
 ### [Assignment1](https://storymaps.arcgis.com/stories/72eb5eb0f12346e9bfd89b86d21de999)
 
